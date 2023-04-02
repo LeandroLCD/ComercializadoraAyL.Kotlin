@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492610137359",
+    "firebase_url": "https://fir-ab14b-default-rtdb.firebaseio.com",
+    "project_id": "fir-ab14b",
+    "storage_bucket": "fir-ab14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492610137359:android:d9f506d8b4ae2117eee27a",
+        "android_client_info": {
+          "package_name": "com.leandrolcd.comercializadoraayl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492610137359-tt9074a0t2evdkgdsh0c9c9hc34g2u20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37OAwLpaaIGjbXmJha6aS6QcqiLB-j9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492610137359-tt9074a0t2evdkgdsh0c9c9hc34g2u20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
